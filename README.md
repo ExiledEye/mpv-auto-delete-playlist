@@ -20,7 +20,7 @@ Useful for workflows that generate temporary `.m3u` playlist files (e.g. from ex
 
 ## Installation
 
-1.  **Git**: Navigate to the scripts directory and run `git clone`.  
+1.  **Git**: Navigate to the scripts directory and run `git clone https://github.com/ExiledEye/mpv-auto-delete-playlist`.  
     **Manual**: Download and place the script folder in your MPV scripts directory.
 2.  Launch MPV once. The config file will be installed automatically, thanks to [confhelper.lua](https://github.com/ExiledEye/mpv-helpers#confhelperlua).
 3.  Configure 'mpv-auto-delete-playlist.conf' as your liking, found in your script-opts directory.
