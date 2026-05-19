@@ -5,7 +5,7 @@
 
 A Lua script for **MPV** that automatically deletes the playlist file used to launch MPV, either when playback starts or when MPV closes.
 
-Useful for workflows that generate temporary `.m3u` playlist files (e.g. from external tools or scripts) and need them cleaned up automatically after use.
+Useful for setups that generate temporary `.m3u` playlist files and need them cleaned up automatically after use.
 
 ## Features
 
